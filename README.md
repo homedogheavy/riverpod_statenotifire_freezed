@@ -1,0 +1,2 @@
+# riverpod_statenotifire_freezed
+flutter riverpod statenotifier freezed
